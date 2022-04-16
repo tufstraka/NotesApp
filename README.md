@@ -1,3 +1,8 @@
+## Tech Stack
+
+- Flask
+
+
 ## Setup & Installation
 
 Make sure you have the latest version of Python installed.
@@ -20,4 +25,3 @@ python main.py
 
 Go to `http://127.0.0.1:5000`
 
-This text input is the only change in this branch
